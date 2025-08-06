@@ -12,5 +12,5 @@ Given a string input, write a function that will return a string made up of the 
 
 For example:
 
-Input: nepo
-Output: openerent
+- Input: nepo
+- Output: openerent
